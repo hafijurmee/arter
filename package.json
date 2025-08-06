@@ -1,5 +1,5 @@
 {
-  "homepage": "https://hafijurmee.github.io/arter",
+  "homepage" : "https://hafijurmee.github.io/arter",
   "name": "arter-nextjs",
   "version": "1.0.1",
   "private": true,
@@ -7,9 +7,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
+    "lint": "next lint"
   },
   "dependencies": {
     "animejs": "^3.2.2",
